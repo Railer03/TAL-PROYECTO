@@ -1,0 +1,19 @@
+# Credenciales
+.env
+
+# Entorno virtual
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Índice y metadatos generados
+news_index.faiss
+news_metadata.pkl
+
+# IDE
+.idea/
+.vscode/
+*.swp
