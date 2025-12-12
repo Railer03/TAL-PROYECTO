@@ -76,4 +76,4 @@ Fuentes:
 
 ## Licencia
 
-Proyecto académico — Universidad Austral de Chile, TAL 2025.
+Proyecto académico — Universidad Austral de Chile, INFO279 2025.
